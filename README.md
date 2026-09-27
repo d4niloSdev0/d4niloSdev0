@@ -1,7 +1,7 @@
 # Olá! Meu nome é Danilo Santos, e seja bem vindo(a) ao meu perfil! 👋
 
 <P align = "center">
-    Olá! Sou o Danilo, futuro Analista de Sistemas cursando o 4º semestre na Universidade Cidade de São Paulo. Curto resolver problemas com código e estou sempre testando algo novo — seja uma API, uma query mais eficiente ou uma linguagem diferente. Hoje estou focado em Java e Spring Boot, buscando minha primeira oportunidade na área de tecnologia.
+    Olá! Sou o Danilo, futuro Analista de Sistemas cursando o 4º semestre na Universidade Cidade de São Paulo. Curto resolver problemas com código e estou sempre testando algo novo — seja uma API, uma query mais eficiente ou uma linguagem diferente. Hoje estou buscando minha primeira oportunidade na área de tecnologia.
 </p>
 
 ### Aprendendo e aperfeiçoando:
@@ -23,15 +23,10 @@
 ### Meus status do GitHub:
 
 <div align="center">
-  <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d4niloSdev0&theme=tokyonight"
-    
-<img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d4niloSdev0&theme=tokyonight"
-  />
-
+  <a href="https://github.com/d4niloSdev0">
+    <img  width="49%"src="https://github-readme-stats-eight-theta.vercel.app/api?username=d4niloSdev0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4niloSdev0&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
 ### 🛠 Tools
