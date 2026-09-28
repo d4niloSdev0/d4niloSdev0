@@ -31,12 +31,9 @@
 
 ### 🛠 Tools
 
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL Workbench" title="MySQL Workbench"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+<p align = "center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github" />
+</p>
 
 ### 🎯 Current Objectives
 
